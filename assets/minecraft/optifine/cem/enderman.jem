@@ -1,0 +1,48 @@
+{
+"models":
+
+  [ 
+
+	{
+	"model": "EndermanBreast.jpm",
+      "part": "body",
+      "attach": true,
+      "translate": [1.5, 2, -8.75],
+      "rotate": [30, -30, 0],
+	  "scale": [1.2]
+	},
+	{
+	"model": "EndermanBreast.jpm",
+      "part": "body",
+      "attach": true,
+      "translate": [-7, 2, -5.5],
+      "rotate": [30, 30, 0],
+	  "scale": [1.2]
+	},
+	{
+	"model": "EndermanCock1.jpm",
+      "part": "body",
+      "attach": true,
+      "translate": [-1, 10, -7],
+      "rotate": [-10, 0, 0],
+	  "scale": [1.5]
+	},
+	{
+	"model": "EndermanCock2.jpm",
+      "part": "body",
+      "attach": true,
+      "translate": [-0.9, 10, -7],
+      "rotate": [-15, 0, 0],
+	  "scale": [1.3]
+	},
+	{
+	"model": "EndermanCock3.jpm",
+      "part": "body",
+      "attach": true,
+      "translate": [-0.8, 10, -7],
+      "rotate": [-30, 0, 0],
+	  "scale": [1.1]
+	}
+  ]
+  
+}

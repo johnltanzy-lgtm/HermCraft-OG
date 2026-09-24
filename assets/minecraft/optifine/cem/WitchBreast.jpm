@@ -1,0 +1,95 @@
+{
+	"texture": "textures/entity/witch.png",
+	"textureSize": [64, 128],
+	"credit": "Made with Blockbench",
+	"submodels": [
+		{
+			"boxes": [
+				{
+					"coordinates": [0, 2, 0, 5, 5, 5],
+					"uvNorth": [49, 89, 53, 93],
+					"uvEast": [54, 89, 58, 93],
+					"uvSouth": [59, 89, 63, 93],
+					"uvWest": [44, 89, 48, 93],
+					"uvUp": [49, 84, 53, 88],
+					"uvDown": [54, 84, 58, 88]
+				}
+			],
+			"id": "Breast1"
+		},
+		{
+			"boxes": [
+				{
+					"coordinates": [0.5, 2.5, -0.5, 4, 4, 4],
+					"uvNorth": [52, 80, 55, 83],
+					"uvEast": [56, 80, 59, 83],
+					"uvSouth": [60, 80, 63, 83],
+					"uvWest": [48, 80, 51, 83],
+					"uvUp": [52, 76, 55, 79],
+					"uvDown": [56, 76, 59, 79]
+				}
+			],
+			"id": "Breast2"
+		},
+		{
+			"boxes": [
+				{
+					"coordinates": [1.5, 3.5, -0.7, 2, 2, 2],
+					"uvNorth": [55, 73, 56, 74],
+					"uvEast": [57, 73, 58, 74],
+					"uvSouth": [48, 73, 49, 74],
+					"uvWest": [53, 73, 54, 74],
+					"uvUp": [55, 71, 56, 72],
+					"uvDown": [57, 71, 58, 72]
+				}
+			],
+			"id": "Nipple1"
+		},
+		{
+			"boxes": [
+				{
+					"coordinates": [2, 4, -1.3, 1, 1, 1],
+					"uvNorth": [55, 73, 56, 74],
+					"uvEast": [57, 73, 58, 74],
+					"uvSouth": [48, 73, 49, 74],
+					"uvWest": [53, 73, 54, 74],
+					"uvUp": [55, 71, 56, 72],
+					"uvDown": [57, 71, 58, 72]
+				}
+			],
+			"id": "Nipple2"
+		},
+		{
+			"boxes": [
+				{
+					"coordinates": [3, 4.25, -1.2, 0.5, 0.5, 0.5],
+					"uvNorth": [61, 69, 62, 70],
+					"uvEast": [61, 69, 62, 70],
+					"uvSouth": [61, 69, 62, 70],
+					"uvWest": [61, 69, 62, 70],
+					"uvUp": [61, 69, 62, 70],
+					"uvDown": [61, 69, 62, 70]
+				}
+			],
+			"id": "Peircing1"
+		},
+		{
+			"boxes": [
+				{
+					"coordinates": [1.5, 4.25, -1.2, 0.5, 0.5, 0.5],
+					"uvNorth": [61, 69, 62, 70],
+					"uvEast": [61, 69, 62, 70],
+					"uvSouth": [61, 69, 62, 70],
+					"uvWest": [61, 69, 62, 70],
+					"uvUp": [61, 69, 62, 70],
+					"uvDown": [61, 69, 62, 70]
+				}
+			],
+			"id": "Peircing2"
+		}
+	]
+}
+
+
+
+

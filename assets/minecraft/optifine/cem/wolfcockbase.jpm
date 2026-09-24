@@ -1,0 +1,66 @@
+{
+	"textureSize": [64, 32],
+	"credit": "Made with Blockbench",
+	"submodels": [
+		{
+			"boxes": [
+				{
+					"coordinates": [0, 2, 0, 2, 2, 2],
+					"uvNorth": [30, 20, 32, 22],
+					"uvEast": [30, 20, 32, 32],
+					"uvSouth": [30, 20, 32, 22],
+					"uvWest": [30, 20, 32, 22],
+					"uvUp": [30, 20, 32, 22],
+					"uvDown": [30, 20, 32, 22]
+				}
+			],
+			"id": "Sheath"
+		},
+		{
+			"boxes": [
+				{
+					"coordinates": [0, 1, 2, 2, 3, 2],
+					"uvNorth": [30, 20, 32, 23],
+					"uvEast": [30, 20, 32, 23],
+					"uvSouth": [30, 20, 32, 23],
+					"uvWest": [30, 20, 32, 23],
+					"uvUp": [30, 20, 32, 22],
+					"uvDown": [30, 20, 32, 22]
+				}
+			],
+			"id": "Balls"
+		},
+		{
+			"boxes": [
+				{
+					"coordinates": [0.5, 5, 2.1, 1, 1, 1],
+					"uvNorth": [61, 29, 62, 30],
+					"uvEast": [61, 29, 62, 30],
+					"uvSouth": [61, 29, 62, 30],
+					"uvWest": [61, 29, 62, 30],
+					"uvUp": [61, 29, 62, 30],
+					"uvDown": [61, 29, 62, 30]
+				}
+			],
+			"id": "pussy"
+		},
+		{
+			"boxes": [
+				{
+					"coordinates": [0.5, 7, 2.1, 1, 1, 1],
+					"uvNorth": [61, 26, 62, 27],
+					"uvEast": [61, 26, 62, 27],
+					"uvSouth": [61, 26, 62, 27],
+					"uvWest": [61, 26, 62, 27],
+					"uvUp": [61, 26, 62, 27],
+					"uvDown": [61, 26, 62, 27]
+				}
+			],
+			"id": "Anus"
+		}
+	]
+}
+
+
+
+

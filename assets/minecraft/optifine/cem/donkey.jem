@@ -1,0 +1,25 @@
+{
+"models":
+
+  [ 
+
+	{
+	"model": "HorseCock.jpm",
+      "part": "body",
+      "attach": true,
+      "translate": [-1.25, 4.25, -4],
+      "rotate": [30, 0, 0],
+	  "scale": [0.5]
+	},
+	{
+	"model": "HorseCockBase.jpm",
+      "part": "body",
+      "attach": true,
+      "translate": [-1.6, 2, 1],
+      "rotate": [10, 0, 0],
+	  "scale": [0.9]
+	}
+	
+  ]
+  
+}

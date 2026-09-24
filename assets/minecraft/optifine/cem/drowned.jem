@@ -1,0 +1,32 @@
+{
+"models":
+
+  [ 
+	{
+	"model": "drownedBreast.jpm",
+      "part": "body",
+      "attach": true,
+      "translate": [0.5, 1, -6],
+         "rotate": [15, -10, 0],
+		  "scale": [0.7]
+	},
+	{
+	"model": "drownedBreast.jpm",
+      "part": "body",
+      "attach": true,
+      "translate": [-4, 1, -5.25],
+         "rotate": [15, 10, 0],
+		  "scale": [0.7]
+	},
+	{
+	"model": "drownedCock.jpm",
+      "part": "body",
+      "attach": true,
+      "translate": [-0.5, 10.5, -5.8],
+         "rotate": [-10, 0, 0],
+		  "scale": [1.0]
+	}
+	
+  ]
+  
+}

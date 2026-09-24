@@ -1,0 +1,48 @@
+{
+	"textureSize": [64, 32],
+	"credit": "Made with Blockbench",
+	"submodels": [
+		{
+			"boxes": [
+				{
+					"coordinates": [-1.5, 0, 2, 4, 2, 2],
+					"uvNorth": [59, 16, 63, 18],
+					"uvEast": [59, 16, 61, 18],
+					"uvSouth": [59, 16, 63, 18],
+					"uvWest": [59, 16, 61, 18],
+					"uvUp": [59, 16, 63, 18],
+					"uvDown": [59, 16, 63, 18]
+				}
+			],
+			"id": "Shaft1"
+		},
+		{
+			"boxes": [
+				{
+					"coordinates": [0, 0, -4, 1, 1, 1],
+					"uvNorth": [59, 16, 60, 17],
+					"uvEast": [59, 16, 60, 17],
+					"uvSouth": [59, 16, 60, 17],
+					"uvWest": [59, 16, 60, 17],
+					"uvUp": [59, 16, 60, 17],
+					"uvDown": [59, 16, 60, 17]
+				}
+			],
+			"id": "Shaft2"
+		},
+		{
+			"boxes": [
+				{
+					"coordinates": [-0.5, 0, -3, 2, 2, 5],
+					"uvNorth": [59, 16, 61, 18],
+					"uvEast": [59, 16, 63, 18],
+					"uvSouth": [59, 16, 61, 18],
+					"uvWest": [59, 16, 63, 18],
+					"uvUp": [59, 16, 61, 21],
+					"uvDown": [59, 16, 61, 21]
+				}
+			],
+			"id": "Knot"
+		}
+	]
+}

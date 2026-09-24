@@ -1,0 +1,39 @@
+{
+	"texture": "textures/entity/enderdragon/dragon.png",
+	"textureSize": [256, 256],
+	"credit": "Made with Blockbench",
+	"submodels": [
+		{
+			"boxes": [
+				{
+					"coordinates": [1, -3, -1, 3, 3, 4],
+					"uvNorth": [220, 235, 221, 236],
+					"uvEast": [220, 235, 221, 236],
+					"uvSouth": [220, 235, 221, 236],
+					"uvWest": [220, 235, 221, 236],
+					"uvUp": [220, 235, 221, 236],
+					"uvDown": [220, 235, 221, 236]
+				}
+			],
+			"id": "sheath"
+		},
+		{
+			"boxes": [
+				{
+					"coordinates": [0, -2, 2, 5, 5, 4],
+					"uvNorth": [220, 235, 221, 236],
+					"uvEast": [220, 235, 221, 236],
+					"uvSouth": [220, 235, 221, 236],
+					"uvWest": [220, 235, 221, 236],
+					"uvUp": [220, 235, 221, 236],
+					"uvDown": [220, 235, 221, 236]
+				}
+			],
+			"id": "balls"
+		}
+	]
+}
+
+
+
+

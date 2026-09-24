@@ -1,0 +1,36 @@
+{
+"models": 
+
+  [ 
+
+    { 
+      "model": "WitherBoob.jpm",
+      "part": "body1",
+      "attach": true,
+      "translate": [1, 4, -6.5],
+      "rotate": [20, -20, 0]
+    },
+	{
+	"model": "WitherBoob.jpm",
+      "part": "body1",
+      "attach": true,
+      "translate": [-6.5, 4, -5],
+      "rotate": [20, 20, 0]
+	},
+	{
+	"model": "WitherCock.jpm",
+      "part": "body2",
+      "attach": true,
+      "translate": [1, 7, -4],
+      "rotate": [0, 0, 0]
+	},
+	{
+	"model": "WitherCock2.jpm",
+	  "part": "body2",
+      "attach": true,
+      "translate": [1, 9.5, -3.5],
+      "rotate": [-45, 0, 0]
+	}
+  ]
+   
+}

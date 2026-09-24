@@ -1,0 +1,23 @@
+{
+"models": 
+
+  [ 
+
+    { 
+      "model": "wolfcock.jpm",
+      "part": "body",
+      "attach": true,
+      "translate": [0.5, 1, -6],
+      "rotate": [70, 0, 180]
+    },
+	{
+	"model": "wolfcockbase.jpm",
+      "part": "body",
+      "attach": true,
+      "translate": [1, 4, -7],
+      "rotate": [90, 0, 180]
+	}
+	
+  ]
+   
+}

@@ -1,0 +1,64 @@
+{
+	"textureSize": [64, 32],
+	"credit": "Made with Blockbench",
+	"submodels": [
+		{
+			"boxes": [
+				{
+					"coordinates": [0, 2, 0, 5, 5, 5],
+					"textureOffset": [36, 0]
+				}
+			],
+			"id": "Breast1"
+		},
+		{
+			"boxes": [
+				{
+					"coordinates": [0.5, 2.5, -0.5, 4, 4, 4],
+					"textureOffset": [36, 0]
+				}
+			],
+			"id": "Breast2"
+		},
+		{
+			"boxes": [
+				{
+					"coordinates": [1.5, 3.5, -0.7, 2, 2, 2],
+					"textureOffset": [41, 10]
+				}
+			],
+			"id": "Nipple1"
+		},
+		{
+			"boxes": [
+				{
+					"coordinates": [2, 4, -1.3, 1, 1, 1],
+					"textureOffset": [48, 10]
+				}
+			],
+			"id": "Nipple2"
+		},
+		{
+			"boxes": [
+				{
+					"coordinates": [3, 4.25, -1.2, 0.5, 0.5, 0.5],
+					"textureOffset": [0, 0]
+				}
+			],
+			"id": "Peircing1"
+		},
+		{
+			"boxes": [
+				{
+					"coordinates": [1.5, 4.25, -1.2, 0.5, 0.5, 0.5],
+					"textureOffset": [0, 0]
+				}
+			],
+			"id": "Peircing2"
+		}
+	]
+}
+
+
+
+
