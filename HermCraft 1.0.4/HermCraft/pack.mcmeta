@@ -1,6 +1,7 @@
 {
   "pack": {
-    "pack_format": 4,
-    "description": "By: Unknownphantom77"
+    "min_format": 97,
+    "max_format": 97,
+    "description": "HermCraft 1.0.4 — updated for Minecraft Java 26.3"
   }
 }
