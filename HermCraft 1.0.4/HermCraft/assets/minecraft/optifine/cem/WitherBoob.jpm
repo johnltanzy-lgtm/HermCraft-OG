@@ -1,0 +1,66 @@
+{
+	"textureSize": [64, 64],
+	"credit": "Made with Blockbench",
+	"submodels": [
+		{
+			"boxes": [
+				{
+					"coordinates": [0, 2, 0, 5, 5, 5],
+					"uvNorth": [40, 45, 48, 53],
+					"uvEast": [32, 45, 40, 53],
+					"uvSouth": [56, 45, 64, 53],
+					"uvWest": [48, 45, 56, 53],
+					"uvUp": [40, 37, 48, 45],
+					"uvDown": [48, 37, 56, 45]
+				}
+			],
+			"id": "Breast1"
+		},
+		{
+			"boxes": [
+				{
+					"coordinates": [0.5, 2.5, -1, 4, 4, 4],
+					"uvNorth": [40, 45, 48, 53],
+					"uvEast": [40, 45, 48, 53],
+					"uvSouth": [40, 45, 48, 53],
+					"uvWest": [40, 45, 48, 53],
+					"uvUp": [40, 45, 48, 53],
+					"uvDown": [40, 45, 48, 53]
+				}
+			],
+			"id": "Breast2"
+		},
+		{
+			"boxes": [
+				{
+					"coordinates": [1.5, 3.5, -1.2, 2, 2, 2],
+					"uvNorth": [61, 29, 62, 30],
+					"uvEast": [61, 29, 62, 30],
+					"uvSouth": [61, 29, 62, 30],
+					"uvWest": [61, 29, 62, 30],
+					"uvUp": [61, 29, 62, 30],
+					"uvDown": [61, 29, 62, 30]
+				}
+			],
+			"id": "Nipple1"
+		},
+		{
+			"boxes": [
+				{
+					"coordinates": [2, 4, -1.8, 1, 1, 1],
+					"uvNorth": [61, 23, 62, 24],
+					"uvEast": [61, 23, 62, 24],
+					"uvSouth": [61, 23, 62, 24],
+					"uvWest": [61, 23, 62, 24],
+					"uvUp": [61, 23, 62, 24],
+					"uvDown": [61, 23, 62, 24]
+				}
+			],
+			"id": "Nipple2"
+		}
+	]
+}
+
+
+
+

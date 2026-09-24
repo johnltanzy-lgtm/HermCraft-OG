@@ -1,0 +1,39 @@
+{
+"models":
+
+  [ 
+	{
+	"model": "dragonBreast.jpm",
+      "part": "body",
+      "attach": true,
+      "translate": [-18, 20, -9],
+         "rotate": [0, 0, -17],
+		  "scale": [1.4]
+	},
+	{
+	"model": "dragonBreast.jpm",
+      "part": "body",
+      "attach": true,
+      "translate": [-25, 6.75, -9],
+         "rotate": [0, 0, 17],
+		  "scale": [1.4]
+	},
+	{
+	"model": "dragonCock.jpm",
+      "part": "body",
+      "attach": true,
+      "translate": [-2, 32, 20],
+         "rotate": [30, 0, 0],
+		  "scale": [2.5]
+	},
+	{
+	"model": "dragonCockBase.jpm",
+      "part": "body",
+      "attach": true,
+      "translate": [-6, 30, 38],
+         "rotate": [10, 0, 0],
+		  "scale": [2.5]
+	}
+  ]
+  
+}

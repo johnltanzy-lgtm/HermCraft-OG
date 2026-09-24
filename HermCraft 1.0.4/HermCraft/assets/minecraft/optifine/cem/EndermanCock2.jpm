@@ -1,0 +1,20 @@
+{
+	"textureSize": [64, 32],
+	"credit": "Made with Blockbench",
+	"submodels": [
+		{
+			"boxes": [
+				{
+					"coordinates": [-0.5, 0, -3, 2, 2, 3],
+					"uvNorth": [41, 10, 42, 11],
+					"uvEast": [41, 10, 42, 11],
+					"uvSouth": [41, 10, 42, 11],
+					"uvWest": [41, 10, 42, 11],
+					"uvUp": [41, 10, 42, 11],
+					"uvDown": [41, 10, 42, 11]
+				}
+			],
+			"id": "shaft"
+		}
+	]
+}

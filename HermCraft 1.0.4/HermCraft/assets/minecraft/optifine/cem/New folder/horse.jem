@@ -1,0 +1,17 @@
+{
+"models":
+
+  [ 
+
+	{
+	"model": "HorseMohawk.jpm",
+      "part": "body",
+      "attach": true,
+      "translate": [0, 30, 0],
+      "rotate": [0, 0, 0],
+	  "scale": [1.0]
+	}
+	
+  ]
+  
+}

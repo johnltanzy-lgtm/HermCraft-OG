@@ -1,0 +1,32 @@
+{
+"models":
+
+  [ 
+
+	{
+	"model": "GolemBreast.jpm",
+      "part": "body",
+      "attach": true,
+      "translate": [2, 0, -15],
+      "rotate": [30, -15, 0],
+	  "scale": [2.0]
+	},
+	{
+	"model": "GolemBreast.jpm",
+      "part": "body",
+      "attach": true,
+      "translate": [-11.5, 0, -12.5],
+      "rotate": [30, 15, 0],
+	  "scale": [2.0]
+	},
+	{
+	"model": "GolemCock.jpm",
+      "part": "body",
+      "attach": true,
+      "translate": [-1, 13, -10],
+      "rotate": [-10, 0, 0],
+	  "scale": [2.0]
+	}
+  ]
+  
+}

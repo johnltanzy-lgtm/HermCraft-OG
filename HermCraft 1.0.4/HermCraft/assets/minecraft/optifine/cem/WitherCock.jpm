@@ -1,0 +1,34 @@
+{
+	"textureSize": [64, 64],
+	"credit": "Made with Blockbench",
+	"submodels": [
+		{
+			"boxes": [
+				{
+					"coordinates": [-1, -0.5, 2, 3, 3, 2],
+					"uvNorth": [42, 53, 44, 55],
+					"uvEast": [42, 53, 43, 55],
+					"uvSouth": [42, 53, 44, 55],
+					"uvWest": [42, 53, 43, 55],
+					"uvUp": [42, 53, 43, 55],
+					"uvDown": [42, 53, 43, 55]
+				}
+			],
+			"id": "Base"
+		},
+		{
+			"boxes": [
+				{
+					"coordinates": [-0.5, 0, -3, 2, 2, 5],
+					"uvNorth": [57, 53, 63, 63],
+					"uvEast": [57, 53, 63, 63],
+					"uvSouth": [57, 53, 63, 63],
+					"uvWest": [57, 53, 63, 63],
+					"uvUp": [57, 53, 63, 63],
+					"uvDown": [57, 53, 63, 63]
+				}
+			],
+			"id": "shaft1"
+		}
+	]
+}

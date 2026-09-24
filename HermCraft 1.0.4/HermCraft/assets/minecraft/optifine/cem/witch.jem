@@ -1,0 +1,29 @@
+{
+"models":
+
+  [ 
+
+	{
+	"model": "WitchBreast.jpm",
+      "part": "nose",
+      "attach": true,
+      "translate": [0.15, 0.5, -5.9],
+      "rotate": [45, -10, -5]
+	},
+	{
+	"model": "WitchBreast.jpm",
+      "part": "nose",
+      "attach": true,
+      "translate": [-5, 0, -5],
+      "rotate": [45, 10, 5]
+	},
+	{
+	"model": "WitchCock.jpm",
+      "part": "left_leg",
+      "attach": true,
+      "translate": [-0.5, 10, -6.5],
+      "rotate": [-10, 0, 0]
+	}
+  ]
+  
+}
